@@ -2,9 +2,4 @@
 logs/*
 .gitignore
 tests/*
-.idea/ZEN.iml
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea/*
